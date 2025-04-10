@@ -50,7 +50,7 @@ void get_B(){
     EnterNumber(B,"get b");
 }
 void get_C(){
-    
+    EnterNumber(C,"get c");
 }
 struct MenuItem {
     string title;
