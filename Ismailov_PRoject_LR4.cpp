@@ -47,7 +47,7 @@ void get_A(){
    EnterNumber(A,"get a");
 }
 void get_B(){
-    
+    EnterNumber(B,"get b");
 }
 void get_C(){
     
