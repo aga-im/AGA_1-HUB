@@ -38,7 +38,10 @@ void AB_C() {
     cout<<"(A+B)%C = "<<CC<<endl;
 }
 void AB__C() {
-  
+    int CC;
+    CC=A+B;
+    CC=CC/C;
+    cout<<"(A+B)/C = "<<CC<<endl;
 }
 void get_A(){
    
