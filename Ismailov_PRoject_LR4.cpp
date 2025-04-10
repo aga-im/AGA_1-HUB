@@ -32,7 +32,10 @@ function<void()> EnterNumber(int& varLink, string label) {
 
 
 void AB_C() {
-  
+    int CC;
+    CC=A+B;
+    CC=CC%C;
+    cout<<"(A+B)%C = "<<CC<<endl;
 }
 void AB__C() {
   
