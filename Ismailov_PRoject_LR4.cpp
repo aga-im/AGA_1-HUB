@@ -44,7 +44,7 @@ void AB__C() {
     cout<<"(A+B)/C = "<<CC<<endl;
 }
 void get_A(){
-   
+   EnterNumber(A,"get a");
 }
 void get_B(){
     
